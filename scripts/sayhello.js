@@ -1,3 +1,3 @@
 function sayHello() {
-	document.write('<b>Hello, World</b>');
+	document.write('<b>Hello World.</b>');
 }
