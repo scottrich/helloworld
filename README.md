@@ -1,4 +1,4 @@
-hello, world
+Hello, world
 ==========
 
 Sample repo to demonstrate integration to JazzHub
